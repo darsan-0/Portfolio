@@ -1,141 +1,85 @@
-# 👋 Hi, I'm Darsan 🚀
-
-```{=html}
+👋 Hi, I'm Darsan
+<p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=CSE+(AI+%26+ML)+Student;Frontend+Developer;Learning+AI+%26+Full+Stack;Building+Cool+Projects🚀&center=true&width=500&height=45"> </p> <p align="center"> <b>🌐 Personal Developer Portfolio Website</b><br> Designed to showcase my skills, projects, and journey as a developer. </p>
 <p align="center">
-```
-`<img src="https://readme-typing-svg.demolab.com/?lines=CSE+(AI+%26+ML)+Student;Frontend+Developer;Learning+AI+%26+Full+Stack;Building+Creative+Projects🔥&center=true&width=600&height=45">`{=html}
-```{=html}
+
+
+
+
+
+
+
+
 </p>
-```
-```{=html}
-<p align="center">
-```
-🌐 `<b>`{=html}Personal Developer Portfolio`</b>`{=html}`<br>`{=html}
-Showcasing my skills, projects, and journey as a passionate developer.
-```{=html}
+<p align="center"> <a href="https://darsan-portfolio.netlify.app"> <img src="https://img.shields.io/badge/🚀%20Live%20Portfolio-Visit%20Now-ff69b4?style=for-the-badge"> </a> </p>
+✨ About This Portfolio
+
+This portfolio represents my journey as a CSE (AI & ML) student passionate about building modern web experiences.
+
+It highlights:
+
+✅ My Projects
+✅ Technical Skills
+✅ Developer Growth
+✅ Contact & Collaboration
+
+🌐 Live Website:
+👉 https://darsan-portfolio.netlify.app
+
+🧑‍💻 Tech Stack
+<p>
+
+💻 HTML5
+🎨 CSS3
+⚡ JavaScript
+
 </p>
-```
+📂 Project Structure
+Portfolio/
+│
+├── index.html
+├── css/
+├── js/
+├── images/
+└── assets/
 
-------------------------------------------------------------------------
+⚡ Run Locally
 
-```{=html}
-<p align="center">
-```
-`<a href="https://darsan-portfolio.netlify.app">`{=html}
-`<img src="https://img.shields.io/badge/🚀%20LIVE%20PORTFOLIO-Visit%20Now-ff0055?style=for-the-badge">`{=html}
-`</a>`{=html}
-```{=html}
-</p>
-```
+Clone the repository:
 
-------------------------------------------------------------------------
+git clone https://github.com/darsan-0/Portfolio.git
 
-## ✨ About This Project
 
-This is my modern personal portfolio website built to highlight my work
-and growth as a CSE (AI & ML) student.
+Open project:
 
-🔥 Clean UI\
-📱 Responsive Design\
-⚡ Fast Performance\
-🎯 Developer-focused layout
+cd Portfolio
 
-🌐 Live Site:\
-https://darsan-portfolio.netlify.app
 
-------------------------------------------------------------------------
+Run:
 
-## 🧑‍💻 Tech Stack
+👉 Open index.html in your browser.
 
-```{=html}
-<p align="center">
-```
-`<img src="https://skillicons.dev/icons?i=html,css,js,github,vscode" />`{=html}
-```{=html}
-</p>
-```
+📸 Portfolio Preview
 
-------------------------------------------------------------------------
+⭐ Add screenshots or GIF previews here to make your README visually powerful.
 
-## 📂 Project Structure
+🚀 Future Improvements
 
-    Portfolio/
-    │
-    ├── index.html
-    ├── css/
-    ├── js/
-    ├── images/
-    └── assets/
+🌙 Dark / Light Mode Toggle
 
-------------------------------------------------------------------------
+✨ Advanced Animations
 
-## ⚡ Run Locally
+📨 Backend Contact Form
 
-    git clone https://github.com/darsan-0/Portfolio.git
-    cd Portfolio
+🧠 AI Portfolio Assistant
 
-Open index.html in browser.
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=darsan-0&show_icons=true&theme=tokyonight"> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=darsan-0&theme=tokyonight"> </p>
+👨‍💻 Author
 
-------------------------------------------------------------------------
+Darsan
+🎓 CSE (AI & ML) Student
+🔗 https://github.com/darsan-0
 
-## 📊 GitHub Stats
+⭐ Support
 
-```{=html}
-<p align="center">
-```
-`<img src="https://github-readme-stats.vercel.app/api?username=darsan-0&show_icons=true&theme=tokyonight&hide_border=true" />`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://github-readme-streak-stats.herokuapp.com/?user=darsan-0&theme=tokyonight&hide_border=true" />`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darsan-0&layout=compact&theme=tokyonight&hide_border=true" />`{=html}
-```{=html}
-</p>
-```
-
-------------------------------------------------------------------------
-
-## 🐍 Contribution Snake
-
-```{=html}
-<p align="center">
-```
-`<img src="https://raw.githubusercontent.com/darsan-0/darsan-0/output/github-contribution-grid-snake.svg">`{=html}
-```{=html}
-</p>
-```
-
-------------------------------------------------------------------------
-
-## 👀 Visitor Counter
-
-```{=html}
-<p align="center">
-```
-`<img src="https://komarev.com/ghpvc/?username=darsan-0&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge">`{=html}
-```{=html}
-</p>
-```
-
-------------------------------------------------------------------------
-
-## 👨‍💻 Author
-
-Darsan\
-CSE (AI & ML) Student\
-https://github.com/darsan-0
-
-------------------------------------------------------------------------
-
-## ⭐ Support
-
-If you like this project, give it a ⭐ --- it helps a lot!
+If you like this project, consider giving it a ⭐ — it motivates me to build more!
